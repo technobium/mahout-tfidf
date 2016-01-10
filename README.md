@@ -1,2 +1,2 @@
 # mahout-tfidf
-Mahout TFIDF Demo 
+Mahout TFIDF demo. Code exlained here: http://technobium.com/tfidf-explained-using-apache-mahout/
